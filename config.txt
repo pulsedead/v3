@@ -1,1 +1,1 @@
-vless://cd29cbd9-c0f3-4d71-80f2-f3dd3d4c76b3@usm.russianrider.space:443?encryption=none&security=reality&type=tcp&sni=debian.org&fp=chrome&pbk=PrFU_VakoiepZwcjqVrg8mp8o_qpsCCX7UzTFKMvNmw&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#cd29cbd9-vless_reality_vision
+    vless://59073bd7-11ca-431c-9a25-aed0f53278da@uss.russianrider.space:10673?encryption=none&security=reality&type=tcp&sni=uss.russianrider.space&fp=chrome&pbk=SgXrPo1-FOjxFTxeTXgeSM1ZEJqlFvr7eU1iXbgd5SE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#59073bd7-vless_reality_vision
