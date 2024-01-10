@@ -1,1 +1,6 @@
     vless://59073bd7-11ca-431c-9a25-aed0f53278da@uss.russianrider.space:10673?encryption=none&security=reality&type=tcp&sni=uss.russianrider.space&fp=chrome&pbk=SgXrPo1-FOjxFTxeTXgeSM1ZEJqlFvr7eU1iXbgd5SE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#59073bd7-vless_reality_vision
+
+--------------------------------------------
+
+test this link: france server,
+vless://60157eed-40bd-4d63-b96b-79518efc3b99@western.russianrider.space:443?encryption=none&security=reality&type=tcp&sni=western.russianrider.space&fp=chrome&pbk=MyYBuV7Obb0Nh6T87I8ikUvUDh0SvEZYroaisjKyKzc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#60157eed-vless_reality_vision
