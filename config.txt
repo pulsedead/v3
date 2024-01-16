@@ -1,5 +1,13 @@
-    vless://59073bd7-11ca-431c-9a25-aed0f53278da@uss.russianrider.space:10673?encryption=none&security=reality&type=tcp&sni=uss.russianrider.space&fp=chrome&pbk=SgXrPo1-FOjxFTxeTXgeSM1ZEJqlFvr7eU1iXbgd5SE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#59073bd7-vless_reality_vision
+Tuic server:
+For android: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.0/NB4A-1.3.0-arm64-v8a.apk
+Windows: nekoray, singbox core
 
+
+For ios: https://apps.apple.com/us/app/streisand/id6450534064
+
+config:
+tuic://17badcb2-c943-4185-b6eb-25b21c362e25:RussianRider13@Rus.russianrider.space:888?alpn=h3,spdy/3.1#Rus
 --------------------------------------------
 
 test this link: france server,
